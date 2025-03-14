@@ -1,1 +1,2 @@
 vendor_oneplus_sm8650-common filter=lfs diff=lfs merge=lfs -text
+libarcsoft_turbo_hdr_raw_front.so filter=lfs diff=lfs merge=lfs -text
